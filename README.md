@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+» **Bivenenue, je suis Evariste Le Dantec.**
+## Voici un aperçu de mon github.
+
+<div align="center">
+  <tr style="display:flex; justify-content: space-around">
+    <td align="center" width="50%" style="margin: auto 0">
+      <img src="https://github-readme-stats.vercel.app/api?username=ELEDANTEC" width="50%"/>
+    </td>
+      <td align="center" width="50%" style="margin-right: 40px;">
+      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELEDANTEC"/>
+    </td>
+  </tr>
+</div>
+
+## Trophées 
+![trophy](https://github-profile-trophy.vercel.app/?username=ELEDANTEC&theme=onedark)]
+
+## Ma distribution Linux Favorite est :
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
