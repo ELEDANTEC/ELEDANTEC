@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salut 👋
 
 <!--
 **ELEDANTEC/ELEDANTEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-» **Bivenenue, je suis Evariste Le Dantec.**
+» **Bienvenue, je suis Evariste Le Dantec.**
 ## Voici un aperçu de mon github.
 
 <div align="center">
