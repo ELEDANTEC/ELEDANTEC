@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 ## Ma distribution Linux Favorite est :
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)]
