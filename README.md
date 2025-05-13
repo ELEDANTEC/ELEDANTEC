@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 ## Ma distribution Linux Favorite est :
 
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)]
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)
