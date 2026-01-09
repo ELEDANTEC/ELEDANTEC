@@ -16,23 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-» **Bienvenue, je suis Evariste Le Dantec.**
-## Voici un aperçu de mon github.
+» **Hi, i'm Evariste Le Dantec.**
 
-<div align="center">
-  <tr style="display:flex; justify-content: space-around">
-    <td align="center" width="50%" style="margin: auto 0">
-      <img src="https://github-readme-stats.vercel.app/api?username=ELEDANTEC" width="50%"/>
-    </td>
-      <td align="center" width="50%" style="margin-right: 40px;">
-      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELEDANTEC"/>
-    </td>
-  </tr>
-</div>
-
-## Trophées 
-![trophy](https://github-profile-trophy.vercel.app/?username=ELEDANTEC&theme=onedark)]
-
-## Ma distribution Linux Favorite est :
-
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)
