@@ -1,5 +1,3 @@
-# Evariste Le Dantec | Linux Developer
-
 👋 Salut, je suis **Evariste Le Dantec**.
 
 Je développe sur mon temps libre, passionné par l'écosystème **Linux**, avec un focus particulier sur le portage de systèmes d'exploitation alternatifs sur du matériel grand public et le développement d'applications pour les wearables.
@@ -40,8 +38,8 @@ Un récapitulatif de mes coordonnées sont disponibles sur mon profile GitHub/Gi
 
 ## 📬 Me Contacter
 Vous avez des questions, des propositions d'alternances dans le milieu de la cybersécurité ?
-*** Mon Portfolio contient les informations nécessaires pour me contacter***
-"Merci de ne pas me proposer de missions dédiées uniquement au développement. Il est impératif que les missions soient adaptées au programme Expert en Sécurité Digitale que je poursuis actuellement."
+Mon Portfolio contient les informations nécessaires pour me contacter
+Merci de ne pas me proposer de missions dédiées uniquement au développement. Il est impératif que les missions soient adaptées au programme Expert en Sécurité Digitale que je poursuis actuellement.
 ---
 
 *Ce dépôt est un espace de travail en évolution. Merci de votre compréhension pour les changements fréquents.*
