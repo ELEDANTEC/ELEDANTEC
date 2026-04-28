@@ -6,10 +6,10 @@ Je développe sur mon temps libre, passionné par l'écosystème **Linux**, avec
 
 ## Projets Actuels
 
-### Ubuntu Touch Port : Samsung Galaxy Z Fold 5📱 
-Je travaille activement sur le portage d'**Ubuntu Touch** pour le **Samsung Galaxy Z Fold 5**.
-- **Objectif** : Rendre le Z Fold 5 compatible Ubuntu Touch (UBPort).
-- **Défi technique principal** : Adapter et forker **Halium 11** en s'inspirant des travaux existants sur le [Galaxy Z Fold 3](https://gitlab.com/ubports/porting/community-ports/android11/samsung-galaxy-z-fold3/kernel-samsung-q2q).
+### Linux mobile Port: Samsung Galaxy Z Fold 5📱 
+Je travaille activement sur le portage d'**Ubuntu Touch** et **PostMarketOS** pour le **Samsung Galaxy Z Fold 5**.
+- **Objectif** : Rendre le Z Fold 5 compatible avec un OS linux pour tous les jours.
+- **Défi technique principal** : Adapter et forker **Halium 11** en s'inspirant des travaux existants sur le [Galaxy Z Fold 3](https://gitlab.com/ubports/porting/community-ports/android11/samsung-galaxy-z-fold3/kernel-samsung-q2q), ainsi du kernel mainline du CPU sm8550 [Snadragon 8 gen 2](https://gitlab.postmarketos.org/soc/qcom-sm8550/linux).
 - **Statut** : En cours de développement.
 
 ### AsteroidOS (Smartwatches⌚)
