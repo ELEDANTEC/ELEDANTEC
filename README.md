@@ -5,7 +5,7 @@ Passionné par l'écosystème **Linux**, dans le portage de systèmes alternatif
 ## Projets Principaux
 
 - **AsteroidOS** : Développement de logiciels (watchfaces et applications natives) pour montres connectées.
-- **Samsung Galaxy Z Fold 5** : Portage de **Ubuntu Touch** et **PostMarketOS**.
+- **Samsung Galaxy Z Fold 5** : Amélioration d'une expérience desktop pour LineageOS.
   - *Base technique* : Adaptation basée sur le kernel existant et **LineageOS**.
   - *Kernel Mainline* : Utilisation du travail sur le **sm8550 (Snapdragon 8 Gen 2)** : [Linux Kernel Mainline](https://gitlab.postmarketos.org/soc/qcom-sm8550/linux).
 
